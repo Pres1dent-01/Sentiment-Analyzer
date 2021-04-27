@@ -1,3 +1,3 @@
 # Sentiment-Analyzer
 
-File will be uploaded very soon!
+The file will take a good amount of process the tweets so please be patient!
